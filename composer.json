@@ -11,5 +11,30 @@
             "email": "info@wimkumpen.be",
             "homepage": "http://www.wimkumpen.be"
         }
-    ]
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wit\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Wit\\Tests\\": "tests/"
+        }
+    },
+    "suggest": {
+    },
+    "scripts": {
+        "test": "phpunit"
+    },
+    "extra": {
+    },
+    "config": {
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
