@@ -4,7 +4,6 @@
  * Why are you not using composer?
  * https://getcomposer.org/
  */
-
 if (version_compare(PHP_VERSION, '5.4.0', '<')) {
     throw new Exception('The Wit SDK requires PHP version 5.4 or higher.');
 }
