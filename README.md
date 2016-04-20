@@ -59,3 +59,4 @@ var_dump($response->getDecodedBody());
 - [ ] Get intent via speech (https://wit.ai/docs/http/20160330#get-intent-via-speech-link)
 - [ ] Implement other Http Clients;
 - [ ] Implement structured response;
+- [ ] Define requirements;
