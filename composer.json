@@ -1,0 +1,14 @@
+{
+    "name": "wimkumpen/wit-php-sdk",
+    "description": "This is a php sdk for the wit.ai API",
+    "keywords": ["php", "wit.ai", "bot", "api", "facebook"],
+    "homepage": "https://github.com/wimkumpen/wit-php-sdk",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wim Kumpen",
+            "email": "info@wimkumpen.be"
+        }
+    ]
+}
