@@ -8,7 +8,8 @@
     "authors": [
         {
             "name": "Wim Kumpen",
-            "email": "info@wimkumpen.be"
+            "email": "info@wimkumpen.be",
+            "homepage": "http://www.wimkumpen.be"
         }
     ]
 }
